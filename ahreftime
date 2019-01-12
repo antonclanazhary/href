@@ -1,0 +1,4 @@
+window.setTimeout('clickit()',5000);
+function clickit(){
+   location.href = document.getElementById("autoid");
+}
